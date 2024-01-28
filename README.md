@@ -42,7 +42,7 @@ By the end of the course, I should be able to build fully-fledged websites and w
 - [Day 18:](https://github.com/dorianjagusch/100-days-of-code/day018) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/dorianjagusch/100-days-of-code/day019) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/dorianjagusch/100-days-of-code/day020) Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21:](https://github.com/dorianjagusch/100-days-of-code/day021) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 21:](https://github.com/dorianjagusch/100-days-of-code/day020) Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22:](https://github.com/dorianjagusch/100-days-of-code/day022) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/dorianjagusch/100-days-of-code/day023) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/dorianjagusch/100-days-of-code/day024) Files, Directories and Paths
