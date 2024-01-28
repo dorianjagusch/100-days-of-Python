@@ -32,12 +32,13 @@ while game_ongoing:
         score_board.update()
 
     if snake.head.xcor() < -380 or snake.head.xcor() > 380 or snake.head.ycor() < -380 or snake.head.ycor() > 380:
-        game_ongoing = False
-        score_board.end_game()
+        score_board.reset()
+        snake.reset()
 
     for segment in snake.body[1:]:
         if snake.head.distance(segment) < 15:
-            game_ongoing = False
-            score_board.end_game()
+            score_board.reset()
+            snake.reset()
+            break
 
 screen.exitonclick()

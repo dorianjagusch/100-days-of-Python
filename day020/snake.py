@@ -49,3 +49,10 @@ class Snake:
     def turn_south(self):
         if self.head.heading() != NORTH:
             self.head.seth(SOUTH)
+
+    def reset(self):
+        for segment in self.body:
+            segment.goto(1000, 1000)
+        self.body.clear()
+        self.initialise_snake()
+        self.head = self.body[0]
