@@ -51,7 +51,7 @@ By the end of the course, I should be able to build fully-fledged websites and w
 - [Day 27:](https://github.com/dorianjagusch/100-days-of-code/day027) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:](https://github.com/dorianjagusch/100-days-of-code/day028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:](https://github.com/dorianjagusch/100-days-of-code/day029) Building a Password Manager GUI App with Tkinter
-- [Day 30:](https://github.com/dorianjagusch/100-days-of-code/day030) Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 30:](https://github.com/dorianjagusch/100-days-of-code/day029) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/dorianjagusch/100-days-of-code/day031) Flash Card App Capstone Project
 
 ## 👨‍💻 Intermediate+
