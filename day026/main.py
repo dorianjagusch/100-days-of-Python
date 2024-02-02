@@ -9,5 +9,9 @@ to_translate = ""
 while to_translate != "Q":
     to_translate = input("Enter a word: ").upper()
 
-    result = [alphabet_dict[letter] for letter in to_translate if letter.isalpha()]
-    print(result)
+    try:
+        result = [alphabet_dict[letter] for letter in to_translate]
+    except KeyError:
+        print("Only wetters pwease UwU")
+    else:
+        print(result)
