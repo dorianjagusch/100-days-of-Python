@@ -51,7 +51,7 @@ while True:
             connection.sendmail("dudebrodude087@gmail.com",
                                 "dorian.jagusch@gmail.com",
                                 msg="ISS Overhead\n\nThe ISS is above you and should be visible"
-                                    " under a clear sky.\nBest,\nISS Locator")
+                                    " under a clear sky.\n\nBest,\nISS Locator")
 
 
 

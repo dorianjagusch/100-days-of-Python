@@ -11,6 +11,7 @@ ACCOUNT_SID = os.getenv("TWILIO_ACCOUNT_SID")
 AUTH_TOKEN = os.getenv("TWILIO_AUTH_TOKEN")
 STOCK_API_KEY = os.getenv("STOCK_API_KEY")
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
+TO_ME = os.getenv("TO_ME")
 COMPANY_SHORT = "TLSA"
 COMPANY = "Tesla"
 
@@ -33,7 +34,7 @@ def send_sms(sms_content):
 
     message = client.messages.create(
         from_='+14788181280',
-        to='+358413142220',
+        to=TO_ME,
         body=sms_content
     )
 

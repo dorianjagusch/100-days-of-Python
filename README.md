@@ -19,7 +19,7 @@ The course content is divided into several areas:
 
 By the end of the course, I should be able to build fully-fledged websites and web apps with Python, and have a portfolio of 100 Python projects.
 
-## 🔰 Beginner 
+## 🔰 Beginner
 - [Day 1:](https://github.com/dorianjagusch/100-days-of-code/day001) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/dorianjagusch/100-days-of-code/day002) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/dorianjagusch/100-days-of-code/day003) Control Flow and Logical Operators
@@ -63,7 +63,7 @@ By the end of the course, I should be able to build fully-fledged websites and w
 - [Day 37:](https://github.com/dorianjagusch/100-days-of-code/day037) Habit Tracking Project: API Post Requests & Headers
 - [Day 38:](https://github.com/dorianjagusch/100-days-of-code/day038) Workout Tracking Using Google Sheets
 - [Day 39:](https://github.com/dorianjagusch/100-days-of-code/day039) Capstone Part 1: Flight Deal Finder
-- [Day 40:](https://github.com/dorianjagusch/100-days-of-code/day040) Capstone Part 2: Flight Club
+- [Day 40:](https://github.com/dorianjagusch/100-days-of-code/day039) Capstone Part 2: Flight Club
 - [Day 41:](https://github.com/dorianjagusch/100-days-of-code/day041) Introduction to HTML
 - [Day 42:](https://github.com/dorianjagusch/100-days-of-code/day042) Intermediate HTML
 - [Day 43:](https://github.com/dorianjagusch/100-days-of-code/day043) Introduction to CSS

@@ -11,6 +11,7 @@ MY_LAT = -42.448300
 MY_LONG = 171.214000
 ACCOUNT_SID = os.getenv("ACCOUNT_SID")
 AUTH_TOKEN = os.getenv("AUTH_TOKEN")
+TO_ME = os.getenv("TO_ME")
 
 print(ACCOUNT_SID)
 print(AUTH_TOKEN)
@@ -36,7 +37,7 @@ for entry in weather_list:
         message = client.messages.create(
             body="Pack and umbrella today or you'll get wet!",
             from_='+14788181280',
-            to='+358413142220'
+            to=TO_ME
         )
         print(message.status)
         break
