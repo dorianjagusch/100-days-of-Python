@@ -95,39 +95,7 @@ By the end of the course, I should be able to build fully-fledged websites and w
 - [Day 67:](https://github.com/dorianjagusch/100-days-of-code/day067) Blog Capstone Project Part 3 - RESTful Routing
 - [Day 68:](https://github.com/dorianjagusch/100-days-of-code/day068) Authentication with Flask
 - [Day 69:](https://github.com/dorianjagusch/100-days-of-code/day069) Blog Capstone Project Part 4 - Adding Users
-- [Day 70:](https://github.com/dorianjagusch/100-days-of-code/day070) Deploying Your Web Application with Heroku
-- [Day 71:](https://github.com/dorianjagusch/100-days-of-code/day071) Data Exploration with Pandas: College Major vs. Your Salary
-- [Day 72:](https://github.com/dorianjagusch/100-days-of-code/day072) Data Visualisation with Matplotlib: Programming Languages
-- [Day 73:](https://github.com/dorianjagusch/100-days-of-code/day073) Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
-- [Day 74:](https://github.com/dorianjagusch/100-days-of-code/day074) Google Trends Data: Resampling and Visualising Time Series
-- [Day 75:](https://github.com/dorianjagusch/100-days-of-code/day075) Beautiful Plotly Charts & Analysing the Android App Store
-- [Day 76:](https://github.com/dorianjagusch/100-days-of-code/day076) Computation with NumPy and N-Dimensional Arrays
-- [Day 77:](https://github.com/dorianjagusch/100-days-of-code/day077) Linear Regression and Data Visualisation with Seaborn
-- [Day 78:](https://github.com/dorianjagusch/100-days-of-code/day078) Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-- [Day 79:](https://github.com/dorianjagusch/100-days-of-code/day079) The Tragic Discovery of Handwashing: t-Tests & Distributions
-- [Day 80:](https://github.com/dorianjagusch/100-days-of-code/day080) Capstone Project - Predict House Prices
 
-## ⚔ Professional Portfolio Projects
-- [Day 81:](https://github.com/dorianjagusch/100-days-of-code/day081) Text to Morse Code Converter
-- [Day 82:](https://github.com/dorianjagusch/100-days-of-code/day082) Portfolio Website
-- [Day 83:](https://github.com/dorianjagusch/100-days-of-code/day083) Tic Tac Toe
-- [Day 84:](https://github.com/dorianjagusch/100-days-of-code/day084) Image Watermarking Desktop App
-- [Day 85:](https://github.com/dorianjagusch/100-days-of-code/day085) Typing Speed Test App
-- [Day 86:](https://github.com/dorianjagusch/100-days-of-code/day086) Breakout: The Famous Arcade Game
-- [Day 87:](https://github.com/dorianjagusch/100-days-of-code/day087) Cafe and Wifi Website
-- [Day 88:](https://github.com/dorianjagusch/100-days-of-code/day088) To Do Agenda App
-- [Day 89:](https://github.com/dorianjagusch/100-days-of-code/day089) Disappearing Text Writing App
-- [Day 90:](https://github.com/dorianjagusch/100-days-of-code/day090) Convert PDF to Audiobook
-- [Day 91:](https://github.com/dorianjagusch/100-days-of-code/day091) Image to Color List
-- [Day 92:](https://github.com/dorianjagusch/100-days-of-code/day092) Amazon Canada Web Scraper
-- [Day 93:](https://github.com/dorianjagusch/100-days-of-code/day093) Google Dinosaur Game Bot
-- [Day 94:](https://github.com/dorianjagusch/100-days-of-code/day094) Space Invaders
-- [Day 95:](https://github.com/dorianjagusch/100-days-of-code/day095) Custom API
-- [Day 96:](https://github.com/dorianjagusch/100-days-of-code/day096) An Online Shop
-- [Day 97:](https://github.com/dorianjagusch/100-days-of-code/day097) Percentage Calculator
-- [Day 98:](https://github.com/dorianjagusch/100-days-of-code/day098) Analyzing and Visualizing the Space Race
-- [Day 99:](https://github.com/dorianjagusch/100-days-of-code/day099) Analyzing Deaths Involving Police in the United States
-- [Day 100:](https://github.com/dorianjagusch/100-days-of-code/day100) Predicting Earnings using Multivariable Regression
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
